@@ -6,7 +6,6 @@
 * [Problem Statement](#problem-statement)
 * [Project Pipeline](#project-pipeline)
 * [Technologies Used](#technologies-used)
-* [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
@@ -76,15 +75,6 @@ You are required to build a multiclass classification model using a custom convo
 
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-- This project was group case study for an online advance course.
-- https://www.geeksforgeeks.org/
-- https://seaborn.pydata.org/
-- https://plotly.com/
-- https://pandas.pydata.org/
-- https://learn.upgrad.com/
-- https://www.tensorflow.org/
 
 
 ## Contact
